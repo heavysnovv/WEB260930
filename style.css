@@ -18,7 +18,7 @@ h1 {
 }
 
 .content {
-  display: unline-block;
+  display: inline-block;
   width: 28%;
   height: 100%;
   border: solid 1px balack;
